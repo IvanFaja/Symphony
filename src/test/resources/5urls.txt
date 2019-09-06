@@ -1,0 +1,5 @@
+	http://www.yahoo.com
+	http://www.cnn.com
+	http://news.google.com
+	http://www.huffingtonpost.com/
+	http://www.nytimes.com/
