@@ -28,6 +28,7 @@ For optimising the speed of the process this project launch a thread per every c
 ### Requirements
  * Java JDK
  * maven
+ 
 Run the following command at the root of the project
 ```
   mvn clean package
